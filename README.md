@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # khairulcode  
 <h1 align="center">Hi there, I'm Khairul 👋</h1>
 
